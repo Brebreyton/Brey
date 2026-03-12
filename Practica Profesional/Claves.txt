@@ -1,0 +1,19 @@
+ID
+
+Clave numerica
+
+Fecha creacion
+
+Usuario creacion
+
+Fecha modificacion
+
+Usuario modificacion
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+Factura Electrónica
+
+
+Folio Fiscal (UUID): abcdefghijklmn-1234-5678-abcd-abcdefghijkl
+Fecha de Expedición: 10/10/2024
+Lugar de Expedición: Ciudad de México, México
+Forma de Pago: Transferencia electrónica
+Método de Pago: PPD (Pago en parcialidades o diferido)
+Moneda: MXN
+Tipo de Comprobante: Ingreso
+Uso del CFDI: G03 (Gastos en general)
+Clave Electrónica de Verificación: AB123456789XYZ
